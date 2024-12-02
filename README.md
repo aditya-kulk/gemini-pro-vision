@@ -1,0 +1,1 @@
+This project is a basic demonstration of using Google's Gemini language model to build a chatbot and image analysis tool. It is implemented using Python, Streamlit, and the google.generativeai library.
